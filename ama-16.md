@@ -1,5 +1,3 @@
-# Django & DRF Interview Questions
-
 ## Adhikya Edammala - What is Knowledge Generation?
 
 **Answer:**
